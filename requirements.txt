@@ -1,0 +1,4 @@
+diffusers
+transformers
+torch>=1.7.0
+accelerate
